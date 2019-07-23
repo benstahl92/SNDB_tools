@@ -1,4 +1,4 @@
-Upload of a set of tools originally written by I. Shivvers (see below, and ). Currently maintained by B. Stahl and T. Brink. 
+Upload of a set of tools originally written by I. Shivvers (see below, and [https://github.com/ishivvers](https://github.com/ishivvers)). Currently maintained by B. Stahl and T. Brink. 
 
 A private ``credentials.py`` file is required.
 
