@@ -1,5 +1,6 @@
 # specific files to ignore
 credentials.p*
+nersc_backups/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
