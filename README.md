@@ -1,4 +1,8 @@
-Upload of a set of tools originally written by I. Shivvers (see below, and ). Currently maintained by B. Stahl and T. Brink. Original README follows below...
+Upload of a set of tools originally written by I. Shivvers (see below, and ). Currently maintained by B. Stahl and T. Brink. 
+
+A private ``credentials.py`` file is required.
+
+The original README follows below...
 
 This is a repository of all of the tools we in the Filippenko Group
  use to manage the SNDB.
