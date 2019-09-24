@@ -282,7 +282,7 @@ def handle_lightcurve( photfile, objname ):
         objname = objname.replace('sn','SN ')
         if re.search( '\d{4}[a-zA-Z]$', objname ):
             objname = objname.upper()
-    fpath,fname = os.path.split( f )
+    fpath,fname = os.path.split( photfile )
     # trim the fpath relative to the Data directory
     fpath = fpath[ fpath.index('Data') : ]
     # if this file is already in the DB, update the entry instead of creating it
